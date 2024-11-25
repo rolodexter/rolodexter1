@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.24.3             # For numerical computations
+pandas==2.1.1             # For data manipulation and analysis
+
+# Machine Learning and NLP
+torch==2.0.1              # PyTorch for deep learning
+transformers==4.33.3      # Hugging Face Transformers for LLMs
+datasets==2.14.5          # Hugging Face Datasets for dataset management
+
+# Personality Simulation and Interaction
+gradio==3.36.0            # For building interactive web demos
+sentence-transformers==2.2.2  # For sentence embeddings and similarity tasks
+
+# Emotion and Sentiment Analysis
+nltk==3.8.7               # Natural Language Toolkit for text processing
+textblob==0.17.1          # Simplified text processing library for sentiment analysis
+
+# Utility Libraries
+scikit-learn==1.3.0       # For machine learning utilities (e.g., clustering, classification)
+matplotlib==3.8.0         # For visualizations
+
+# Optional: DSM-5 Simulation (if using external libraries)
+pyaipersonality==0.0.10   # Library for defining AI personalities (optional)
+
+# Deployment and API Integration
+fastapi==0.100.0          # For building APIs if needed
+uvicorn==0.23.2           # ASGI server for running FastAPI apps
+
+# System Utilities
+tqdm==4.66.0              # For progress bars in scripts
