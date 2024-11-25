@@ -2,6 +2,8 @@
 
 **rolodexter1** is an open-source social AI model designed to simulate and compute socialization patterns, personalities, and psychiatric conditions. It features a universal library of personality types and integrates the DSM-5 framework to replicate psychiatric disorders for research, development, and interactive applications. The model powers dynamic, personality-driven interactions and serves as a foundation for innovative AI-driven social systems.
 
+[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-blue)](https://huggingface.co/spaces/rolodexter/rolodexter1)
+
 ## Features
 - **[Universal Personality Library](docs/Universal_Personality_Library.md)**: A master reference of all personality types, enabling realistic simulation of human-like behaviors.
 - **[DSM-5-Based Simulation](docs/DSM-5_Based_Simulation.md)**: Accurate replication of psychiatric disorders as defined by the DSM-5 for educational, research, or therapeutic use.
